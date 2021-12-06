@@ -80,7 +80,7 @@ $(function() {
 <div class="dynheader">
 Collaboration diagram for engine::Window:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="classengine_1_1Window__coll__graph.svg" width="236" height="411"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="classengine_1_1Window__coll__graph.svg" width="236" height="440"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <table class="memberdecls">
@@ -89,9 +89,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a8ec116d4d002bd1227d5dd7dc6cbdc6f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classengine_1_1Window.html#a8ec116d4d002bd1227d5dd7dc6cbdc6f">Window</a> (const std::string &amp;title, int xpos, int ypos, int width, int height, bool fullscreen)</td></tr>
 <tr class="memdesc:a8ec116d4d002bd1227d5dd7dc6cbdc6f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructs a new Windows with given configuration settings.  <a href="classengine_1_1Window.html#a8ec116d4d002bd1227d5dd7dc6cbdc6f">More...</a><br /></td></tr>
 <tr class="separator:a8ec116d4d002bd1227d5dd7dc6cbdc6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a05b6e6c73fd4c74c0d0af34f255cce92"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classengine_1_1Window.html#a05b6e6c73fd4c74c0d0af34f255cce92">Render</a> (const std::string &amp;texturePath, const <a class="el" href="structspic_1_1Transform.html">spic::Transform</a> &amp;transform, const SDL_RendererFlip &amp;flip)</td></tr>
-<tr class="memdesc:a05b6e6c73fd4c74c0d0af34f255cce92"><td class="mdescLeft">&#160;</td><td class="mdescRight">Render a texture on the window at a given location.  <a href="classengine_1_1Window.html#a05b6e6c73fd4c74c0d0af34f255cce92">More...</a><br /></td></tr>
-<tr class="separator:a05b6e6c73fd4c74c0d0af34f255cce92"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82fea42ded0e8f9bac04368d1b26459d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classengine_1_1Window.html#a82fea42ded0e8f9bac04368d1b26459d">Render</a> (const std::string &amp;texturePath, const <a class="el" href="structspic_1_1Transform.html">spic::Transform</a> &amp;transform, const SDL_RendererFlip &amp;flip, const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;color=<a class="el" href="classspic_1_1Color.html#ae94c5bc0a96385d27206b7a697726abd">spic::Color::transparent</a>())</td></tr>
+<tr class="memdesc:a82fea42ded0e8f9bac04368d1b26459d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Render a texture on the window at a given location.  <a href="classengine_1_1Window.html#a82fea42ded0e8f9bac04368d1b26459d">More...</a><br /></td></tr>
+<tr class="separator:a82fea42ded0e8f9bac04368d1b26459d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acb93f30775ddf8ebe1c5e0f5f8298dac"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classengine_1_1Window.html#acb93f30775ddf8ebe1c5e0f5f8298dac">RenderText</a> (const std::string &amp;text, const <a class="el" href="structspic_1_1Transform.html">spic::Transform</a> &amp;transform, const std::string &amp;fontPath, int size, <a class="el" href="namespacespic.html#aaa0301faebebc81988adda719b02a0fe">spic::Alignment</a> alignment, <a class="el" href="classspic_1_1Color.html">spic::Color</a> color, double maxWidth)</td></tr>
 <tr class="memdesc:acb93f30775ddf8ebe1c5e0f5f8298dac"><td class="mdescLeft">&#160;</td><td class="mdescRight">Render a string of text on the window at a given location.  <a href="classengine_1_1Window.html#acb93f30775ddf8ebe1c5e0f5f8298dac">More...</a><br /></td></tr>
 <tr class="separator:acb93f30775ddf8ebe1c5e0f5f8298dac"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -196,8 +196,8 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a05b6e6c73fd4c74c0d0af34f255cce92"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a05b6e6c73fd4c74c0d0af34f255cce92">&#9670;&nbsp;</a></span>Render()</h2>
+<a id="a82fea42ded0e8f9bac04368d1b26459d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a82fea42ded0e8f9bac04368d1b26459d">&#9670;&nbsp;</a></span>Render()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -218,7 +218,13 @@ Public Member Functions</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">const SDL_RendererFlip &amp;&#160;</td>
-          <td class="paramname"><em>flip</em>&#160;</td>
+          <td class="paramname"><em>flip</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="classspic_1_1Color.html">spic::Color</a> &amp;&#160;</td>
+          <td class="paramname"><em>color</em> = <code><a class="el" href="classspic_1_1Color.html#ae94c5bc0a96385d27206b7a697726abd">spic::Color::transparent</a>()</code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -234,6 +240,7 @@ Public Member Functions</h2></td></tr>
     <tr><td class="paramname">texturePath</td><td>The path to the texture. </td></tr>
     <tr><td class="paramname">transform</td><td>The location where the texture needs to be placed. </td></tr>
     <tr><td class="paramname">flip</td><td>In which directions the textures needs to be flipped (horizontal, vertical, both). </td></tr>
+    <tr><td class="paramname">color</td><td>The color to render over the texture (transparent to disable). </td></tr>
   </table>
   </dd>
 </dl>

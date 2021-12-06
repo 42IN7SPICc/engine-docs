@@ -7,7 +7,7 @@ var searchData=
   ['registermouselistener_906',['RegisterMouseListener',['../namespacespic_1_1Input.html#a65a828f83fcd537e7cca3e29edc82905',1,'spic::Input::RegisterMouseListener()'],['../classengine_1_1InputManager.html#a55c0d0f1cf9c04a5b012ce668ebbcbdc',1,'engine::InputManager::RegisterMouseListener()']]],
   ['removechild_907',['RemoveChild',['../classspic_1_1GameObject.html#a4d49ca892eff1d5d7eb30276bce5f6d0',1,'spic::GameObject']]],
   ['removecomponent_908',['RemoveComponent',['../classspic_1_1GameObject.html#a117db63cd7ba85481af8add057c10eea',1,'spic::GameObject']]],
-  ['render_909',['Render',['../classengine_1_1Window.html#a05b6e6c73fd4c74c0d0af34f255cce92',1,'engine::Window::Render()'],['../classspic_1_1Camera.html#a5f94f15ac7ce47e42436d138f09dbbfb',1,'spic::Camera::Render()']]],
+  ['render_909',['Render',['../classengine_1_1Window.html#a82fea42ded0e8f9bac04368d1b26459d',1,'engine::Window::Render()'],['../classspic_1_1Camera.html#a5f94f15ac7ce47e42436d138f09dbbfb',1,'spic::Camera::Render()']]],
   ['renderscene_910',['RenderScene',['../classspic_1_1Scene.html#af0e6f0b1a917a4b7662fe7867614811a',1,'spic::Scene']]],
   ['rendersubsystem_911',['RenderSubsystem',['../classengine_1_1RenderSubsystem.html#aa2001ce47a79b50f9ded5bca97097d8e',1,'engine::RenderSubsystem']]],
   ['rendertext_912',['RenderText',['../classengine_1_1Window.html#acb93f30775ddf8ebe1c5e0f5f8298dac',1,'engine::Window']]],
