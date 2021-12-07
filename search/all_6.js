@@ -36,7 +36,7 @@ var searchData=
   ['font_190',['Font',['../classengine_1_1Font.html',1,'engine::Font'],['../classengine_1_1Font.html#a72ea5ac6a1509bd6cd5b50cc6fa654eb',1,'engine::Font::Font()'],['../classspic_1_1Text.html#a859a04938af3fbdf246aafa548d6efe2',1,'spic::Text::Font() const'],['../classspic_1_1Text.html#a67870c5b9323b57e0b4cd60039ebbeb0',1,'spic::Text::Font(const std::string &amp;font)']]],
   ['font_2ecpp_191',['Font.cpp',['../Font_8cpp.html',1,'']]],
   ['font_2ehpp_192',['Font.hpp',['../Font_8hpp.html',1,'']]],
-  ['fontmanager_193',['FontManager',['../classengine_1_1FontManager.html',1,'engine::FontManager'],['../classengine_1_1FontManager.html#a2f89acd28b5bd24e747aacd3208131ef',1,'engine::FontManager::FontManager()']]],
+  ['fontmanager_193',['FontManager',['../classengine_1_1FontManager.html',1,'engine::FontManager'],['../classengine_1_1FontManager.html#ad0254145050cef54b22f810cf4158ba4',1,'engine::FontManager::FontManager(FontManager &amp;&amp;manager)=delete'],['../classengine_1_1FontManager.html#a1b06366968bb93d5147bcf150e913f39',1,'engine::FontManager::FontManager(const FontManager &amp;manager)=delete'],['../classengine_1_1FontManager.html#a2f89acd28b5bd24e747aacd3208131ef',1,'engine::FontManager::FontManager()']]],
   ['fontmanager_2ecpp_194',['FontManager.cpp',['../FontManager_8cpp.html',1,'']]],
   ['fontmanager_2ehpp_195',['FontManager.hpp',['../FontManager_8hpp.html',1,'']]],
   ['fps_196',['FPS',['../classspic_1_1Animator.html#a6e0bb17dfd953d4269725f0bddf5f823',1,'spic::Animator::FPS(int newFps)'],['../classspic_1_1Animator.html#a4c97cc7fe1d9c01d31190bdecf12d2dd',1,'spic::Animator::FPS() const']]],
