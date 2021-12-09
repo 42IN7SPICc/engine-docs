@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['zoneutil_674',['ZoneUtil',['../classengine_1_1ZoneUtil.html',1,'engine']]]
+  ['window_683',['Window',['../classengine_1_1Window.html',1,'engine']]],
+  ['windowconfig_684',['WindowConfig',['../structspic_1_1WindowConfig.html',1,'spic']]]
 ];
