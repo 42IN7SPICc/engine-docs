@@ -1,7 +1,7 @@
 var searchData=
 [
   ['b_53',['B',['../namespacespic_1_1Input.html#aed95f16c86236940a2ad1d84ef8c25d2a9d5ed678fe57bcca610140957afab571',1,'spic::Input::B()'],['../classspic_1_1Color.html#abe5e763a90f296221a9ecb3c26a9407a',1,'spic::Color::B()']]],
-  ['backgroundcolor_54',['BackgroundColor',['../classspic_1_1Camera.html#ac19faaea243af52a6c39bd9c29de5ce0',1,'spic::Camera::BackgroundColor(const Color &amp;newBackgroundColor)'],['../classspic_1_1Camera.html#a75f3cf4d59a27a327419d4526d45efca',1,'spic::Camera::BackgroundColor() const']]],
+  ['backgroundcolor_54',['BackgroundColor',['../classspic_1_1Camera.html#ac19faaea243af52a6c39bd9c29de5ce0',1,'spic::Camera::BackgroundColor(const Color &amp;newBackgroundColor)'],['../classspic_1_1Camera.html#a75f3cf4d59a27a327419d4526d45efca',1,'spic::Camera::BackgroundColor() const'],['../classengine_1_1Window.html#a3a6ad3d7f6ebc01a6fb74a01dca55520',1,'engine::Window::BackgroundColor()']]],
   ['backslash_5fand_5fpipe_55',['BACKSLASH_AND_PIPE',['../namespacespic_1_1Input.html#aed95f16c86236940a2ad1d84ef8c25d2afc68b0c0a885913b02b6b85331d013c5',1,'spic::Input']]],
   ['backspace_56',['BACKSPACE',['../namespacespic_1_1Input.html#aed95f16c86236940a2ad1d84ef8c25d2a6f5d8e41084b4d3d47fa621c459eede1',1,'spic::Input']]],
   ['begincontact_57',['BeginContact',['../classengine_1_1ContactListener.html#ad75eca7244addd81d9761af8e6a72d7c',1,'engine::ContactListener']]],
