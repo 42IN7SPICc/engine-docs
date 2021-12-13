@@ -14,5 +14,6 @@ var searchData=
   ['_5fscenes_11',['_scenes',['../Engine__private_8hpp.html#a96d127e8a9db3077b53c8962a76a2bf8',1,'Engine_private.hpp']]],
   ['_5fsprites_12',['_sprites',['../Animator__private_8hpp.html#ad94667b2efe8a6a1d5224af55d4ec2f1',1,'Animator_private.hpp']]],
   ['_5fstarted_13',['_started',['../BehaviourScript__private_8hpp.html#a6fadbe5bb545f2b4064782ac0b634fee',1,'BehaviourScript_private.hpp']]],
-  ['_5ftransform_14',['_transform',['../GameObject__private_8hpp.html#aeb7cae7b07dbd44e2dbeeaeed3a948ae',1,'GameObject_private.hpp']]]
+  ['_5ftransform_14',['_transform',['../GameObject__private_8hpp.html#aeb7cae7b07dbd44e2dbeeaeed3a948ae',1,'GameObject_private.hpp']]],
+  ['_5fuse_5fmath_5fdefines_15',['_USE_MATH_DEFINES',['../PointUtil_8cpp.html#a525335710b53cb064ca56b936120431e',1,'PointUtil.cpp']]]
 ];

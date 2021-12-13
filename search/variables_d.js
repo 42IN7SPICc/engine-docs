@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['x_1068',['x',['../structspic_1_1Point.html#abfa15f71a5ca95c07e83bfa54286934a',1,'spic::Point']]]
+  ['width_1159',['width',['../structspic_1_1WindowConfig.html#aea1d68ef9b1d06825a7d4e0b00c18ed9',1,'spic::WindowConfig']]],
+  ['window_1160',['window',['../structspic_1_1EngineConfig.html#af9a2e3cdb00ada101b1f630d20a00ec4',1,'spic::EngineConfig']]]
 ];

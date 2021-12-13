@@ -1,9 +1,11 @@
 <map id="includes/spic&#45;api&#45;headers/Sprite.hpp" name="includes/spic&#45;api&#45;headers/Sprite.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="313,5,482,47"/>
+<area shape="rect" id="node1" title=" " alt="" coords="430,5,599,47"/>
 <area shape="rect" id="node2" href="$Sprite_8cpp.html" title=" " alt="" coords="5,102,131,129"/>
 <area shape="rect" id="node3" href="$RenderSubsystem_8cpp.html" title=" " alt="" coords="155,102,405,129"/>
 <area shape="rect" id="node4" href="$Animator_8hpp.html" title=" " alt="" coords="430,95,599,136"/>
-<area shape="rect" id="node7" href="$Api_8hpp.html" title=" " alt="" coords="641,184,810,225"/>
-<area shape="rect" id="node5" href="$Animator_8cpp.html" title=" " alt="" coords="189,191,331,218"/>
-<area shape="rect" id="node6" href="$AnimatorSubsystem_8cpp.html" title=" " alt="" coords="355,191,616,218"/>
+<area shape="rect" id="node7" href="$Api_8hpp.html" title=" " alt="" coords="553,184,722,225"/>
+<area shape="rect" id="node8" href="$AnimatorUtil_8hpp.html" title=" " alt="" coords="718,95,887,136"/>
+<area shape="rect" id="node5" href="$Animator_8cpp.html" title=" " alt="" coords="101,191,243,218"/>
+<area shape="rect" id="node6" href="$AnimatorSubsystem_8cpp.html" title=" " alt="" coords="267,191,528,218"/>
+<area shape="rect" id="node9" href="$AnimatorUtil_8cpp.html" title=" " alt="" coords="747,191,941,218"/>
 </map>
