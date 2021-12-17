@@ -1,4 +1,4 @@
 <map id="engine::AudioSubsystem" name="engine::AudioSubsystem">
-<area shape="rect" id="node1" title="Subsystem to handle AudioSource components." alt="" coords="5,131,189,296"/>
-<area shape="rect" id="node2" href="$classengine_1_1ISubsystem.html" title="Interface for subsystems." alt="" coords="16,5,179,83"/>
+<area shape="rect" id="node1" title="Subsystem to handle AudioSource components." alt="" coords="5,131,197,325"/>
+<area shape="rect" id="node2" href="$classengine_1_1ISubsystem.html" title="Interface for subsystems." alt="" coords="20,5,183,83"/>
 </map>
