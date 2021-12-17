@@ -2,7 +2,7 @@
 <area shape="rect" id="node1" title="Base class for all components. @spicapi." alt="" coords="475,5,670,229"/>
 <area shape="rect" id="node2" href="$classspic_1_1Animator.html" title="A component which can play animated sequences of sprites. @spicapi." alt="" coords="5,431,167,611"/>
 <area shape="rect" id="node3" href="$classspic_1_1AudioSource.html" title="Component which can play audio. @spicapi." alt="" coords="191,424,354,619"/>
-<area shape="rect" id="node4" href="$classspic_1_1BehaviourScript.html" title="Base class for script running in the game." alt="" coords="378,409,570,633"/>
+<area shape="rect" id="node4" href="$classspic_1_1BehaviourScript.html" title="Base class for script running in the game." alt="" coords="378,402,570,641"/>
 <area shape="rect" id="node5" href="$classspic_1_1Collider.html" title="The base class for all colliders. @spicapi." alt="" coords="594,461,749,582"/>
 <area shape="rect" id="node8" href="$classspic_1_1RigidBody.html" title="A component representing a rigid body. @spicapi." alt="" coords="773,387,970,655"/>
 <area shape="rect" id="node9" href="$classspic_1_1Sprite.html" title="A component representing a sprite (small image) @spicapi." alt="" coords="995,277,1180,765"/>

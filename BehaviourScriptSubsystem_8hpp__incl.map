@@ -1,4 +1,8 @@
 <map id="src/Subsystems/BehaviourScriptSubsystem.hpp" name="src/Subsystems/BehaviourScriptSubsystem.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,184,47"/>
-<area shape="rect" id="node2" href="$ISubsystem_8hpp.html" title=" " alt="" coords="37,95,152,121"/>
+<area shape="rect" id="node1" title=" " alt="" coords="124,5,303,47"/>
+<area shape="rect" id="node2" href="$ISubsystem_8hpp.html" title=" " alt="" coords="5,95,120,121"/>
+<area shape="rect" id="node3" href="$BehaviourScript_8hpp.html" title=" " alt="" coords="144,95,283,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="239,319,307,345"/>
+<area shape="rect" id="node4" href="$Component_8hpp.html" title=" " alt="" coords="171,244,283,271"/>
+<area shape="rect" id="node6" href="$Collider_8hpp.html" title=" " alt="" coords="187,169,277,196"/>
 </map>
