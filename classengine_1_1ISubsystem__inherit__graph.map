@@ -8,6 +8,6 @@
 <area shape="rect" id="node9" href="$classengine_1_1InputSubsystem.html" title="Subsystem to handle Input from the mouse and keyboard." alt="" coords="1118,175,1278,252"/>
 <area shape="rect" id="node10" href="$classengine_1_1PhysicsSubsystem.html" title="Subsystem to handle RigidBody and Collider components." alt="" coords="1303,167,1480,259"/>
 <area shape="rect" id="node11" href="$classengine_1_1RenderSubsystem.html" title="Subsystem to handle Sprite components and Text objects." alt="" coords="1505,160,1694,267"/>
-<area shape="rect" id="node5" href="$classengine_1_1LateUpdateBehaviourScriptSubsystem.html" title=" " alt="" coords="326,344,518,480"/>
-<area shape="rect" id="node6" href="$classengine_1_1UpdateBehaviourScriptSubsystem.html" title=" " alt="" coords="542,344,742,480"/>
+<area shape="rect" id="node5" href="$classengine_1_1LateUpdateBehaviourScriptSubsystem.html" title="Handles late updates for the behaviour script components." alt="" coords="326,344,518,480"/>
+<area shape="rect" id="node6" href="$classengine_1_1UpdateBehaviourScriptSubsystem.html" title="Handles updates for the behaviour script components." alt="" coords="542,344,742,480"/>
 </map>

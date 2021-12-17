@@ -191,7 +191,7 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classengine_1_1LateUpdateBehaviourScriptSubsystem.html" target="_top" xlink:title=" ">
+<g id="a_node5"><a xlink:href="classengine_1_1LateUpdateBehaviourScriptSubsystem.html" target="_top" xlink:title="Handles late updates for the behaviour script components.">
 <polygon fill="none" stroke="black" points="240.5,-0.5 240.5,-101.5 384.5,-101.5 384.5,-0.5 240.5,-0.5"/>
 <text text-anchor="start" x="248.5" y="-89.5" font-family="Helvetica,sans-Serif" font-size="10.00">engine::LateUpdateBehaviour</text>
 <text text-anchor="middle" x="312.5" y="-78.5" font-family="Helvetica,sans-Serif" font-size="10.00">ScriptSubsystem</text>
@@ -214,7 +214,7 @@
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classengine_1_1UpdateBehaviourScriptSubsystem.html" target="_top" xlink:title=" ">
+<g id="a_node6"><a xlink:href="classengine_1_1UpdateBehaviourScriptSubsystem.html" target="_top" xlink:title="Handles updates for the behaviour script components.">
 <polygon fill="none" stroke="black" points="402.5,-0.5 402.5,-101.5 552.5,-101.5 552.5,-0.5 402.5,-0.5"/>
 <text text-anchor="start" x="410.5" y="-89.5" font-family="Helvetica,sans-Serif" font-size="10.00">engine::UpdateBehaviourScript</text>
 <text text-anchor="middle" x="477.5" y="-78.5" font-family="Helvetica,sans-Serif" font-size="10.00">Subsystem</text>
